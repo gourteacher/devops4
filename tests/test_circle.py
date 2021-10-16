@@ -2,7 +2,7 @@
 import math
 
 import pytest
-from circle import Circle 
+from src.circle import Circle 
 
 class TestCircle():
 
